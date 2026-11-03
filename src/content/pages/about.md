@@ -4,11 +4,11 @@ title: "About Paul Davis Restoration of Charleston | Charleston Restoration Comp
 h1: "About Paul Davis Restoration of Charleston"
 meta_description: "Paul Davis Restoration of Charleston has served Charleston since. Meet our restoration team. Locally owned."
 primary_keyword: "paul davis restoration of charleston charleston"
-secondary_keywords: ["local restoration company", "iicrc certified restoration", "licensed restoration contractor"]
+secondary_keywords: ["local restoration company", "licensed restoration contractor"]
 search_intent: "navigational_trust"
 priority: 2.5
-plan_hash: "00d57a11f62f472d"
-generated_at: "2026-09-20T14:13:25.007481+00:00"
+plan_hash: "ca67162de116bc68"
+generated_at: "2026-11-03T14:30:04.756683+00:00"
 manual_override: false
 internal_links: ["/", "/services/", "/contact/"]
 breadcrumb: [{"name": "Home", "url": "/"}, {"name": "About"}]

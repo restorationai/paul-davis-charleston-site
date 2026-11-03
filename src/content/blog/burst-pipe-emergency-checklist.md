@@ -1,23 +1,21 @@
 ---
 archetype: "blog-post"
-title: "Burst Pipe Checklist: Step-by-Step Response"
-h1: "Burst Pipe Checklist: Step-by-Step Response"
+title: "Burst Pipe Emergency Checklist: Step-by-Step Response"
+h1: "Burst Pipe Emergency Checklist: Step-by-Step Response"
 meta_description: ""
-primary_keyword: "burst pipe checklist stepbystep response"
+primary_keyword: "burst pipe emergency checklist stepbystep response"
 secondary_keywords: ["water damage restoration", "appliance leak cleanup"]
 search_intent: "informational_emergency"
 priority: 6.0
-hero: "/images/blog/2026/10/burst-pipe-emergency-checklist/hero.webp"
-og: "/images/blog/2026/10/burst-pipe-emergency-checklist/hero.webp"
-plan_hash: "d20f95a7826c16d2"
-generated_at: "2026-09-20T14:13:25.017177+00:00"
+plan_hash: "e68240da9b49668f"
+generated_at: "2026-11-03T14:30:04.784489+00:00"
 manual_override: false
 internal_links: ["/blog/", "/services/water-damage-restoration/", "/blog/what-to-do-first-24-hours-water-damage/", "/blog/choosing-a-restoration-company/", "/blog/does-homeowners-insurance-cover-water-damage/"]
-breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Blog", "url": "/blog/"}, {"name": "Burst Pipe Checklist: Step-by-Step Response"}]
+breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Blog", "url": "/blog/"}, {"name": "Burst Pipe Emergency Checklist: Step-by-Step Response"}]
 faq: []
-published_at: "2026-09-05"
+published_at: "2026-10-19"
 services: ["water-damage-restoration", "appliance-leak-cleanup"]
 ---
 <!-- Page body not yet generated. Run `build_site.py render --slug paul-davis-charleston` to populate. The frontmatter above is the source-of-truth metadata from the plan. -->
 
-Placeholder content for Burst Pipe Checklist: Step-by-Step Response.
+Placeholder content for Burst Pipe Emergency Checklist: Step-by-Step Response.

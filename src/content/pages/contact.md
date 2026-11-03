@@ -1,14 +1,14 @@
 ---
 archetype: "contact"
-title: "Contact Paul Davis Restoration of Charleston | Restoration in Charleston"
+title: "Contact Paul Davis Restoration of Charleston | 24/7 Restoration in Charleston"
 h1: "Contact Paul Davis Restoration of Charleston"
-meta_description: "Call for restoration services in Charleston and surrounding areas. Free estimates. Direct insurance billing."
+meta_description: "Call  for 24/7 emergency restoration in Charleston and surrounding areas. Free estimates. Direct insurance billing."
 primary_keyword: "paul davis restoration of charleston contact"
-secondary_keywords: ["restoration company contact"]
+secondary_keywords: ["restoration company contact", "24/7 restoration phone", "emergency restoration near me"]
 search_intent: "navigational_action"
 priority: 2.5
-plan_hash: "b071f7871e82b1b8"
-generated_at: "2026-09-20T14:13:25.007642+00:00"
+plan_hash: "c3e6d83808ba5bbb"
+generated_at: "2026-11-03T14:30:04.756997+00:00"
 manual_override: false
 internal_links: ["/", "/services/", "/service-areas/"]
 breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Contact"}]

@@ -8,7 +8,7 @@ secondary_keywords: []
 search_intent: "navigational_legal"
 priority: 1.0
 plan_hash: "327e847466d73e57"
-generated_at: "2026-09-20T14:13:25.019395+00:00"
+generated_at: "2026-11-03T14:30:04.789584+00:00"
 manual_override: false
 internal_links: []
 breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Accessibility Statement"}]

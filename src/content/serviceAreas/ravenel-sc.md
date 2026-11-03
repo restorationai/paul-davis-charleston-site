@@ -2,15 +2,15 @@
 archetype: "service-area"
 title: "Restoration Services in Ravenel, SC | Paul Davis Restoration of Charleston"
 h1: "Restoration Services in Ravenel"
-meta_description: "Serving Ravenel, SC with water, fire, mold, and storm damage restoration. Experienced team. Call."
+meta_description: "Serving Ravenel, SC with 24/7 water, fire, mold, and storm damage restoration. Experienced team. Call."
 primary_keyword: "restoration services ravenel"
 secondary_keywords: ["ravenel restoration company", "damage restoration ravenel", "ravenel disaster restoration"]
 search_intent: "local_commercial"
 priority: 4.8
-plan_hash: "3194e9fce70f49f3"
-generated_at: "2026-09-20T19:37:13.574949+00:00"
+plan_hash: "5ab53afd9e208fba"
+generated_at: "2026-11-03T14:30:04.766158+00:00"
 manual_override: false
-internal_links: ["/service-areas/", "/contact/", "/service-areas/ravenel-sc/", "/service-areas/ravenel-sc/water-damage-restoration/", "/service-areas/awendaw-sc/", "/service-areas/folly-beach-sc/", "/service-areas/goose-creek-sc/"]
+internal_links: ["/service-areas/", "/contact/", "/service-areas/ravenel-sc/water-damage-restoration/", "/service-areas/charleston-sc/", "/service-areas/awendaw-sc/", "/service-areas/bonneau-sc/"]
 breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Service Areas", "url": "/service-areas/"}, {"name": "Ravenel"}]
 faq: []
 area_slug: "ravenel-sc"

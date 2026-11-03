@@ -8,7 +8,7 @@ secondary_keywords: []
 search_intent: "navigational_legal"
 priority: 1.0
 plan_hash: "99dbd3d37949caaa"
-generated_at: "2026-09-20T14:13:25.019246+00:00"
+generated_at: "2026-11-03T14:30:04.789261+00:00"
 manual_override: false
 internal_links: []
 breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Terms of Service"}]

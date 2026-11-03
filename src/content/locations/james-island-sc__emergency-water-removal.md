@@ -2,15 +2,15 @@
 archetype: "service-area-service"
 title: "Emergency Water Removal & Cleanup in James Island, SC | Paul Davis Restoration of Charleston"
 h1: "Emergency Water Removal & Cleanup in James Island"
-meta_description: "emergency water removal and cleanup in James Island, SC. Insurance billing accepted. Call."
-primary_keyword: "emergency water removal james island"
-secondary_keywords: ["water removal", "water extraction", "emergency water cleanup", "water cleanup", "standing water removal", "flood water removal"]
+meta_description: "24/7 emergency water removal & cleanup in James Island, SC. Insurance billing accepted. Call."
+primary_keyword: "emergency water removal & cleanup james island"
+secondary_keywords: ["emergency water removal", "water extraction", "water removal", "water cleanup", "emergency water cleanup", "standing water removal"]
 search_intent: "local_emergency"
 priority: 6.3
-plan_hash: "7b911089fe9b9173"
-generated_at: "2026-09-20T14:13:25.012834+00:00"
+plan_hash: "2ba27ab515c2bf1e"
+generated_at: "2026-11-03T14:30:04.772705+00:00"
 manual_override: false
-internal_links: ["/services/emergency-water-removal/", "/service-areas/james-island-sc/", "/service-areas/james-island-sc/mold-remediation/", "/service-areas/awendaw-sc/emergency-water-removal/", "/service-areas/goose-creek-sc/", "/contact/"]
+internal_links: ["/services/emergency-water-removal/", "/service-areas/james-island-sc/", "/service-areas/james-island-sc/mold-remediation/", "/service-areas/james-island-sc/water-damage-restoration/", "/service-areas/awendaw-sc/emergency-water-removal/", "/service-areas/folly-beach-sc/emergency-water-removal/", "/contact/"]
 breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Service Areas", "url": "/service-areas/"}, {"name": "James Island", "url": "/service-areas/james-island-sc/"}, {"name": "Emergency Water Removal & Cleanup"}]
 faq: []
 area_slug: "james-island-sc"

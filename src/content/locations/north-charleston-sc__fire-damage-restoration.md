@@ -2,15 +2,15 @@
 archetype: "service-area-service"
 title: "Emergency Fire Damage Restoration in North Charleston, SC | Paul Davis Restoration of Charleston"
 h1: "Emergency Fire Damage Restoration in North Charleston"
-meta_description: "Emergency fire damage restoration in North Charleston, SC. Insurance billing accepted. Call."
+meta_description: "24/7 emergency fire damage restoration in North Charleston, SC. Insurance billing accepted. Call."
 primary_keyword: "fire damage restoration north charleston"
 secondary_keywords: ["fire cleanup", "fire and smoke restoration", "structural fire damage", "post-fire restoration", "fire damage repair"]
 search_intent: "local_emergency"
 priority: 7.0
-plan_hash: "aa62e17d3abce6ca"
-generated_at: "2026-09-20T14:13:25.011172+00:00"
+plan_hash: "06130a2f77fffdfd"
+generated_at: "2026-11-03T14:30:04.769446+00:00"
 manual_override: false
-internal_links: ["/services/fire-damage-restoration/", "/service-areas/north-charleston-sc/", "/service-areas/north-charleston-sc/mold-remediation/", "/service-areas/north-charleston-sc/water-damage-restoration/", "/service-areas/awendaw-sc/", "/service-areas/goose-creek-sc/", "/contact/"]
+internal_links: ["/services/fire-damage-restoration/", "/service-areas/north-charleston-sc/", "/service-areas/north-charleston-sc/mold-remediation/", "/service-areas/north-charleston-sc/water-damage-restoration/", "/service-areas/hollywood-sc/fire-damage-restoration/", "/contact/"]
 breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Service Areas", "url": "/service-areas/"}, {"name": "North Charleston", "url": "/service-areas/north-charleston-sc/"}, {"name": "Fire Damage Restoration"}]
 faq: []
 area_slug: "north-charleston-sc"
@@ -21,4 +21,4 @@ service_display: "Fire Damage Restoration"
 ---
 <!-- Page body not yet generated. Run `build_site.py render --slug paul-davis-charleston` to populate. The frontmatter above is the source-of-truth metadata from the plan. -->
 
-Placeholder content for Fire Damage Restoration in North Charleston.
+Placeholder content for Emergency Fire Damage Restoration in North Charleston.

@@ -7,10 +7,10 @@ primary_keyword: "mold remediation kiawah island"
 secondary_keywords: ["mold removal", "black mold remediation", "mold abatement", "mold containment", "mold cleanup"]
 search_intent: "local_health"
 priority: 7.0
-plan_hash: "ee3478d0b948d8d6"
-generated_at: "2026-09-21T14:13:36.633714+00:00"
+plan_hash: "af8be167489c6a25"
+generated_at: "2026-11-03T14:30:04.780808+00:00"
 manual_override: false
-internal_links: ["/services/mold-remediation/", "/service-areas/kiawah-island-sc/", "/service-areas/kiawah-island-sc/water-damage-restoration/", "/service-areas/awendaw-sc/", "/service-areas/folly-beach-sc/mold-remediation/", "/contact/"]
+internal_links: ["/services/mold-remediation/", "/service-areas/kiawah-island-sc/", "/service-areas/kiawah-island-sc/water-damage-restoration/", "/service-areas/kiawah-island-sc/emergency-water-removal/", "/service-areas/folly-beach-sc/mold-remediation/", "/service-areas/goose-creek-sc/mold-remediation/", "/contact/"]
 breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Service Areas", "url": "/service-areas/"}, {"name": "Kiawah Island", "url": "/service-areas/kiawah-island-sc/"}, {"name": "Mold Remediation"}]
 faq: []
 area_slug: "kiawah-island-sc"

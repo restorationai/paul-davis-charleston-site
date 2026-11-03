@@ -7,10 +7,10 @@ primary_keyword: "mold remediation isle of palms"
 secondary_keywords: ["mold removal", "black mold remediation", "mold abatement", "mold containment", "mold cleanup"]
 search_intent: "local_health"
 priority: 7.0
-plan_hash: "60041c78eb3c2c62"
-generated_at: "2026-09-20T14:13:25.015316+00:00"
+plan_hash: "b18adb2136735174"
+generated_at: "2026-11-03T14:30:04.775398+00:00"
 manual_override: false
-internal_links: ["/services/mold-remediation/", "/service-areas/isle-of-palms-sc/", "/service-areas/isle-of-palms-sc/water-damage-restoration/", "/service-areas/awendaw-sc/", "/service-areas/goose-creek-sc/mold-remediation/", "/contact/"]
+internal_links: ["/services/mold-remediation/", "/service-areas/isle-of-palms-sc/", "/service-areas/isle-of-palms-sc/water-damage-restoration/", "/service-areas/isle-of-palms-sc/emergency-water-removal/", "/service-areas/folly-beach-sc/mold-remediation/", "/service-areas/goose-creek-sc/mold-remediation/", "/contact/"]
 breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Service Areas", "url": "/service-areas/"}, {"name": "Isle of Palms", "url": "/service-areas/isle-of-palms-sc/"}, {"name": "Mold Remediation"}]
 faq: []
 area_slug: "isle-of-palms-sc"

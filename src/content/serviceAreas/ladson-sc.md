@@ -2,15 +2,15 @@
 archetype: "service-area"
 title: "Restoration Services in Ladson, SC | Paul Davis Restoration of Charleston"
 h1: "Restoration Services in Ladson"
-meta_description: "Serving Ladson, SC with water, fire, mold, and storm damage restoration. Experienced team. Call."
+meta_description: "Serving Ladson, SC with 24/7 water, fire, mold, and storm damage restoration. Experienced team. Call."
 primary_keyword: "restoration services ladson"
 secondary_keywords: ["ladson restoration company", "damage restoration ladson", "ladson disaster restoration"]
 search_intent: "local_commercial"
 priority: 4.8
-plan_hash: "5e25e705a11110cd"
-generated_at: "2026-09-20T14:13:25.009972+00:00"
+plan_hash: "115e99b7d8ecd2eb"
+generated_at: "2026-11-03T14:30:04.764919+00:00"
 manual_override: false
-internal_links: ["/service-areas/", "/contact/", "/service-areas/ladson-sc/", "/service-areas/ladson-sc/water-damage-restoration/", "/service-areas/awendaw-sc/", "/service-areas/goose-creek-sc/", "/service-areas/hanahan-sc/"]
+internal_links: ["/service-areas/", "/contact/", "/service-areas/ladson-sc/water-damage-restoration/", "/service-areas/charleston-sc/", "/service-areas/awendaw-sc/", "/service-areas/bonneau-sc/"]
 breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Service Areas", "url": "/service-areas/"}, {"name": "Ladson"}]
 faq: []
 area_slug: "ladson-sc"
