@@ -1,0 +1,68 @@
+{
+ "/service-areas/bonneau-sc/water-cleanup": {
+  "planned": "/service-areas/bonneau-sc/emergency-water-removal/",
+  "now": "/service-areas/bonneau-sc/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/goose-creek-sc/water-cleanup": {
+  "planned": "/service-areas/goose-creek-sc/emergency-water-removal/",
+  "now": "/service-areas/goose-creek-sc/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/hanahan-sc/water-cleanup": {
+  "planned": "/service-areas/hanahan-sc/emergency-water-removal/",
+  "now": "/service-areas/hanahan-sc/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/hollywood-sc/water-cleanup": {
+  "planned": "/service-areas/hollywood-sc/emergency-water-removal/",
+  "now": "/service-areas/hollywood-sc/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/ladson-sc/water-cleanup": {
+  "planned": "/service-areas/ladson-sc/emergency-water-removal/",
+  "now": "/service-areas/ladson-sc/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/meggett-sc/water-cleanup": {
+  "planned": "/service-areas/meggett-sc/emergency-water-removal/",
+  "now": "/service-areas/meggett-sc/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/mount-pleasant-sc/water-cleanup": {
+  "planned": "/service-areas/mount-pleasant-sc/emergency-water-removal/",
+  "now": "/service-areas/mount-pleasant-sc/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/north-charleston-sc/water-cleanup": {
+  "planned": "/service-areas/north-charleston-sc/emergency-water-removal/",
+  "now": "/service-areas/north-charleston-sc/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/ravenel-sc/water-cleanup": {
+  "planned": "/service-areas/ravenel-sc/emergency-water-removal/",
+  "now": "/service-areas/ravenel-sc/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/ridgeville-sc/water-cleanup": {
+  "planned": "/service-areas/ridgeville-sc/emergency-water-removal/",
+  "now": "/service-areas/ridgeville-sc/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/summerville-sc/water-cleanup": {
+  "planned": "/service-areas/summerville-sc/emergency-water-removal/",
+  "now": "/service-areas/summerville-sc/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ }
+}
