@@ -1,6 +1,6 @@
 ---
 archetype: "service-areas-hub"
-title: "Service Areas | Paul Davis Restoration of Charleston Restoration"
+title: "Service Areas | Paul Davis Restoration of Charleston"
 h1: "Areas We Serve"
 meta_description: "Paul Davis Restoration of Charleston provides 24/7 restoration services across Charleston and the surrounding region. Find your city."
 primary_keyword: "paul davis restoration of charleston service areas"
