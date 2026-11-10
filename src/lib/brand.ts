@@ -72,7 +72,7 @@ export const brand = {
   certifications: [] as string[],
   trustBadges: [] as string[],
   jobPhotos: [] as string[],
-  sameAsUrls: ["https://www.yelp.com/biz/paul-davis-restoration-of-charleston-charleston", "https://nextdoor.com/pages/paul-davis-restoration-of-charleston/"] as string[],
+  sameAsUrls: ["https://www.yelp.com/biz/paul-davis-restoration-of-charleston-charleston", "https://nextdoor.com/pages/paul-davis-restoration-remodeling-charleston-sc/", "https://www.houzz.com/professionals/general-contractors/paul-davis-restoration-of-greater-charleston-pfvwus-pf~345845073"] as string[],
   // GBP rating fields — synced from the live Google Business Profile by
   // scripts/sync_brand_reviews.py; never hand-edited (real ratings only).
   gbpRatingValue: "",
