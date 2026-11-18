@@ -80,11 +80,11 @@ Review count matters alongside rating. A 5.0 from 229 customers is a more statis
 
 | Company | Google Rating | Reviews | 24/7 Emergency | IICRC Certified |
 |---|---|---|---|---|
-| Paul Davis Restoration of Charleston |, |, |, | Yes |
-| SERVPRO of Mount Pleasant | 4.8 | 137 |, |, |
-| Lowcountry Remediation | 5.0 | 83 |, |, |
-| Minutemen Property Damage Services | 4.9 | 86 |, |, |
-| Disaster Plus | 5.0 | 229 |, |, |
+| Paul Davis Restoration of Charleston | Not listed | Not listed | Not listed | Yes |
+| SERVPRO of Mount Pleasant | 4.8 | 137 | Not listed | Not listed |
+| Lowcountry Remediation | 5.0 | 83 | Not listed | Not listed |
+| Minutemen Property Damage Services | 4.9 | 86 | Not listed | Not listed |
+| Disaster Plus | 5.0 | 229 | Not listed | Not listed |
 
 *24/7 availability and certifications for competitors are not independently verified. Contact each company directly to confirm.*
 
