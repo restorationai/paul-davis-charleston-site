@@ -51,6 +51,11 @@ export const brand = {
   // ("Central Maryland") instead of one city; every other line keeps primaryCity.
   homeRegion: "",
   primaryState: "SC",
+  // SERVICE REGION (Santino 2026-11-19): multi-metro clients name the region
+  // on every region-wide surface (see src/lib/region.ts); city pages and the
+  // address/NAP keep the city. Empty = one-metro client, city wording.
+  serviceRegion: "Charleston, SC & the Lowcountry",
+  serviceRegionDetail: "Mount Pleasant, North Charleston, Summerville, Goose Creek, James Island, Moncks Corner",
   // primaryCity/primaryState = the #1 MARKETING city (headlines, coverage
   // copy). addressCity/addressState = where the business PHYSICALLY is.
   // They are usually the same and often diverge (DISS: Farrell PA office,
