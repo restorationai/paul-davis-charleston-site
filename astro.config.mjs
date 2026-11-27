@@ -56,6 +56,13 @@ function contentLastmodMap() {
 
 const LASTMOD_BY_PATH = contentLastmodMap();
 
+// rankai:page-dates (AI Search 2026-11-27): <lastmod> = the date the page's CONTENT
+// last really changed (scripts/page_dates.py -> src/data/page-dates.json, the same
+// file schema dateModified reads). A page without a date gets no lastmod, never the
+// build date.
+const PAGE_DATES_FILE = path.join(path.dirname(fileURLToPath(import.meta.url)), "src", "data", "page-dates.json");
+const PAGE_DATES = fs.existsSync(PAGE_DATES_FILE) ? JSON.parse(fs.readFileSync(PAGE_DATES_FILE, "utf8")) : {};
+
 // 24/7 LAW (2026-10-10, scripts/emergency_policy.py): the scaffold does not
 // generate src/pages/emergency.astro for a client with no emergency scope;
 // the Header/Footer Emergency link follows the page file (true when present).
@@ -80,7 +87,8 @@ export default defineConfig({
           item.priority = item.url === "https://paul-davis-charleston.invalid/" ? 1.0 : 0.7;
         }
         const urlPath = new URL(item.url).pathname;
-        item.lastmod = (LASTMOD_BY_PATH.get(urlPath) ?? BUILD_DATE).toISOString();
+        if (PAGE_DATES[urlPath]?.modified) item.lastmod = PAGE_DATES[urlPath].modified;
+        else delete item.lastmod;
         return item;
       },
     }),
